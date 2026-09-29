@@ -1,0 +1,494 @@
+[
+  {
+    "file": "assets/maps/pueblo_paleta_css.png",
+    "bytes": 958913,
+    "sha256": "5947dc073303e1522e0449664f7285321c61389329018876ea464b2e29a8883e",
+    "source_section": "css"
+  },
+  {
+    "file": "assets/ui/background_main.png",
+    "bytes": 2453814,
+    "sha256": "2ddee04115ede56442cc2d835616f06140abc94183b996a479754e891fa2d590",
+    "source_section": "css"
+  },
+  {
+    "file": "assets/pokemon/pokemon_1.png",
+    "bytes": 12416,
+    "sha256": "80c66ec2bbea2ac049eadf96f48bdc6128e523d9534beea977670282c52330cb",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_19.png",
+    "bytes": 10582,
+    "sha256": "2cdf754da1931f2430db23c79dbd303b91961297291d2e120d317173ee103bc4",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_16.png",
+    "bytes": 17975,
+    "sha256": "a23ef5e97f1706e55816377e10df5ba627585eceb54abcde041460ca4b419268",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_10.png",
+    "bytes": 19063,
+    "sha256": "88b10ddbb57c555e59ccfc7fe4b6383e53eab6e48089ac20d96e6c539308534d",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_13.png",
+    "bytes": 19241,
+    "sha256": "dcca3667e4fef1b17e228537e248890b30afad0688d66ec30113e29ae6b58825",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_7.png",
+    "bytes": 9608,
+    "sha256": "5f745fd244b343ab73da6704615cbd6ee0c31082d1860e41cf8909b43ee73e21",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_4.png",
+    "bytes": 957,
+    "sha256": "3fe92de07ff2e3fa950b03f20e96b1ef65b05b2414ba943d5ed75c1690c54004",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/pokemon_25.png",
+    "bytes": 1063,
+    "sha256": "1da57e9ef9a8133a5abc93e17c612e212278c1a7d4edd7c1b18cbee98c1eda7f",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_1.png",
+    "bytes": 7594,
+    "sha256": "c08eea73bb72553195664e62badfdfe0dd835bceb2c2acb8c0912b9474307992",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_2.png",
+    "bytes": 18303,
+    "sha256": "f828fae1e29b38cc122b7221e45e561aa9a73660f05457551e35a9652d910f74",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_3.png",
+    "bytes": 22882,
+    "sha256": "7a99a5754f0f08967f948a2199c038b3483a5e7e83c0f0729607ddc7304d6d15",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_4.png",
+    "bytes": 8613,
+    "sha256": "79a1b8d086dc1d2fb5b90e08eb29aba600b87375e361181990f6c40db4b57100",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_5.png",
+    "bytes": 19037,
+    "sha256": "b4af750478a014bb32364638dcca62cb7ce3b0c2630d0be8f8fe7749ddff60ba",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_6.png",
+    "bytes": 23473,
+    "sha256": "486d21957500cd81eb094201125c5d0ee4ab7ccb99b91939ae759e8fb10593e3",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_7.png",
+    "bytes": 9208,
+    "sha256": "8b92ef8bebf1ce8fde078bbac2e7a5816abb0ff42094c0b7b81e38d0def84351",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_8.png",
+    "bytes": 23531,
+    "sha256": "febdc583cbc3187b522e3da8383a663c42fad1a63fee1ed4e4c3ac7b82e8b93b",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_9.png",
+    "bytes": 26544,
+    "sha256": "5986b26abe66aa08610fd4330a7b8d51bc186324b4e23a01531a3e2c00ae2a77",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_10.png",
+    "bytes": 12079,
+    "sha256": "1699762bc17d18b78e110cbb21bff9be6d9a3b7786cdd9d0502bef5bac413529",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_19.png",
+    "bytes": 15505,
+    "sha256": "e924044a13d4d960efa3e8f460b6f8ea563c10dd896604b651be550c086b7387",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_16.png",
+    "bytes": 14710,
+    "sha256": "8fc764549e398e9fd8bfe7c73eda68643cf2ff8ef336f9f1450ae107b56be378",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_25.png",
+    "bytes": 18313,
+    "sha256": "374a359c6c82b610351e002fedfc81f8528061a990cb8f106f39e4ba82424f60",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_11.png",
+    "bytes": 12979,
+    "sha256": "18bc64f690257637afb5f3c1027679a1f6e78a78a96bf30dfecf342565a38998",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_14.png",
+    "bytes": 14718,
+    "sha256": "d5165b0093d919b7335ba31586e12c2783d8dce150fb3252289f1ec398d86f66",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/user_pokemon_17.png",
+    "bytes": 16913,
+    "sha256": "83dde58942f607a127c92ed707f361b1279a6dd03a660db9e012113fa208f28f",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/forest_pokemon_11.png",
+    "bytes": 18767,
+    "sha256": "c3dc1cc64e895e5b4d957cbd53d18222b51142987781fcdc94354f455cc5172c",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/forest_pokemon_13.png",
+    "bytes": 14798,
+    "sha256": "57000b13244fd79f9edad56df8d1c86e5466f511ec97345e58b2e2db81b71fa5",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/pokemon/forest_pokemon_17.png",
+    "bytes": 18073,
+    "sha256": "5ff21471bc2753c7e3ed0a78a70c46f7fc602836ed24405d29c6cb0ffd257ee0",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/item_pokeball.png",
+    "bytes": 37100,
+    "sha256": "d61a2fdb7eb1133d11309a77bf7e3c82d27f599346ecd4361389c16ca23fe8f2",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/item_potion.png",
+    "bytes": 26857,
+    "sha256": "546ebdfea0e68ffbc96052eb7da22461a92c9cb15a19f8c416a5fb29da9ecf54",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/item_repel.png",
+    "bytes": 25950,
+    "sha256": "ef4d097bc07837d3ba3ce5e48f66386d59f37bceb0979b84a1be9b128d71c415",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/gear_u00e1sica.png",
+    "bytes": 25512,
+    "sha256": "e48df560fd4ab0044cff299b96986bcdf582c27a01d97f3c171d0a511611f6d4",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/gear_ruta.png",
+    "bytes": 39968,
+    "sha256": "0345a79b3bd994eb6c77aa0d037b2ed1aa4074d66efd077f469ebaa05209c670",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/gear_aventurera.png",
+    "bytes": 43077,
+    "sha256": "8d50a6364a4c916aeaec66995e75184124e0ac9264bd0f8f7c64ac9a91e34ad5",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/gear_u00e1pidas.png",
+    "bytes": 31334,
+    "sha256": "5b7a1000b3654cc5f78c2b02a4aa0c049c893c064c86415b88c0cbcdb5ba5b7f",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/gear_oscuras.png",
+    "bytes": 18846,
+    "sha256": "4e3aa0a1946b51983b4ffed32c84e3563410f41357040c065d4aee79b55fe6c5",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/gear_rojo.png",
+    "bytes": 27863,
+    "sha256": "71e10bd4f62ee958bbbc3492e4a48d2ac5c69fd993730f86b77262f51cf6bbc2",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_pants_brown.png",
+    "bytes": 21053,
+    "sha256": "757d240138e07373c5cf6dfb087e74820c33b51bad49edf4a66a0cd0e8ea42ca",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_pants_jeans.png",
+    "bytes": 26522,
+    "sha256": "42c5ba04a671ec1762a74b71af6f2b98184e3a946d9a7046f0a1ac2e5c38ff8d",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_pants_sport.png",
+    "bytes": 29410,
+    "sha256": "d9bbd31574c45fbb0ef6e129d46f185a992422e67eb55a9492ae522c41128fed",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_cap_black.png",
+    "bytes": 27995,
+    "sha256": "626fc06fc49de2b679996a68d3ffca2e67adb606964832678ce851fa8e818fdc",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_watch.png",
+    "bytes": 38221,
+    "sha256": "e104a0f83fc9c377d146aedba6e3728330a3f109edc0bff0e294583151b8e721",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_necklace.png",
+    "bytes": 14346,
+    "sha256": "1631847f96f760cb6de4dc3cbc4c59d03e34db8595e34cc44803165c5a803a0a",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_bag_cross.png",
+    "bytes": 38013,
+    "sha256": "a3550409d1078286272960c18f6fd77de6278e8a0f7703b3212a1b8f6bcf629d",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_hat_safari.png",
+    "bytes": 24530,
+    "sha256": "d951fbff4f261f92ce9a61446890bd5c118bbf72bd43d3d50aabaaef96832d3b",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_sweater_green.png",
+    "bytes": 30835,
+    "sha256": "95b48f6097fc9f268ff5a3157b6b10a09bdfaacbdbe9fae72a8841c94aa7d11e",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_bag_classic.png",
+    "bytes": 42120,
+    "sha256": "708515a925293b006470dadd16fd7a70d6ffc75c9d98ab00edaabe6bbfb555cf",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_loafers.png",
+    "bytes": 34019,
+    "sha256": "623526531bca166e7e23695b3f8d510f88081fd114a9a7237d65bed88a1b16f2",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_glasses_round.png",
+    "bytes": 18513,
+    "sha256": "6ab06bb162e1245d9365319fb61357404772ccba7f109a36c61a31451f8d212c",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear_scarf_blue.png",
+    "bytes": 35710,
+    "sha256": "c59df9861cef9fbfbea0fae0b73a659372c22cb6d3f4fe95ac733d55357c54b3",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/items/new_gear.png",
+    "bytes": 3048303,
+    "sha256": "03a29924b6f1a7e8c1d36b8f88a842a6d5179c788ea79a59a69f90e08b844ecd",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/maps/pueblo_paleta.png",
+    "bytes": 2920669,
+    "sha256": "a258b102c03194292e34ff51e0cfaac4ac6c8063dedeabf900ebf64ce7629bab",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/maps/pueblo_paleta_2.png",
+    "bytes": 3164647,
+    "sha256": "a01e5d7401f7183337aee4b4e3d1f0cffa27e88406b1cbcd0cc1d1afc9647322",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/maps/kanto.png",
+    "bytes": 1385710,
+    "sha256": "af032fc540e2a639ea11957ec521392f9138acc073a08ceac7bdb973ffce320d",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_adult1.png",
+    "bytes": 39028,
+    "sha256": "b675a104eca2c87f86e48d95d0f6fac2cf6af091a9fe5a23647dde5017158127",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_adult2.png",
+    "bytes": 49440,
+    "sha256": "9f3cf0aad724190291d17c89b84920d048fad0186ad0ea870f146cb5692fc98a",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_adult3.png",
+    "bytes": 47264,
+    "sha256": "0f00dff638aa4d5471bbeb5348b1e0e0e22f557aed8d9f0d3cc9f7ca7ee0b780",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_adult4.png",
+    "bytes": 47183,
+    "sha256": "21cf1cab1af079d827d0f7cfd017bae38f820004f2db459285769ef2d19fd424",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_adult5.png",
+    "bytes": 38837,
+    "sha256": "b9134972b4aeb791871b8a00557d3097411c5fa4bfe1f45154e54cac51fb5d3d",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_adult6.png",
+    "bytes": 55872,
+    "sha256": "c923c64ed7fe33873b5e6fa33c3be83a4424b0ab177b3b028fd9021d0d5c7809",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_young1.png",
+    "bytes": 39624,
+    "sha256": "ba278fde68b05b2c7decad633448ea1f4b2bbc21a1f5b80be57929fff2d89277",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_young2.png",
+    "bytes": 38742,
+    "sha256": "b50f55c1af910b7c89553d0f66814d0baa496f49dfae51bbe31d4060d8939cbf",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_young3.png",
+    "bytes": 39939,
+    "sha256": "38bb125d0febdc0c95b05efe566a0f1dd4bdefe8b5d4762d691408639af854eb",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_young4.png",
+    "bytes": 42819,
+    "sha256": "da049f69b235ab6f6f2bab6e15b87f51c5feb1a489bbbd75c0143cd5288f10bd",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_young5.png",
+    "bytes": 37743,
+    "sha256": "1e4e5b0ff67505b85d71882cdaca045978fef278128a9e28091465aef1a5f8f2",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/avatars/avatar_young6.png",
+    "bytes": 39266,
+    "sha256": "a9adc13752ce0f8f1b542aa35d2a12222c8b40a16a34c90a4a28b75b1809f91e",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_t1.png",
+    "bytes": 31760,
+    "sha256": "99fd3927b073f6705d768fa664f20346ecfd6f9b7ba9585a18340c8559737d74",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_t2.png",
+    "bytes": 32843,
+    "sha256": "64dcb07081049d2ce73ef17dbc7acce3826955bade15dc513af09a9d4d0e3de0",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_t3.png",
+    "bytes": 37300,
+    "sha256": "2e71acf6e8faf72777fdd3c7ab614f6e25434fabd1126749867839a4365a833a",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_t4.png",
+    "bytes": 33774,
+    "sha256": "58ef73038db517f6ba866d5022e76bf524a8261439e1f8e0fe1c3ae9bc20bd53",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_bug_boy.png",
+    "bytes": 42592,
+    "sha256": "a1bc35c4d52c3066c3ecf92acb5a84a1a6c74f233a5bb60273cbf084061473b9",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_bug_girl.png",
+    "bytes": 40772,
+    "sha256": "4466eae178be616d28b771077188f591c7b8e1edf75f066756030f461f37ab65",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_bug_man.png",
+    "bytes": 48836,
+    "sha256": "492fd20f3e3b7e4d936a88ab87240b879bb9bed8601c73a70978ea5426006197",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer_bug_woman.png",
+    "bytes": 45082,
+    "sha256": "5b818addcf9a609fcef691a599903db53b31da4a20f1b63d24f28486f508acc6",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/trainer.png",
+    "bytes": 4016566,
+    "sha256": "25a2ef8ae9c5bee45387a688188ea43d20e9bb0b7cf7630c3851d52a909c11fd",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/entrenador_novato_paleta.png",
+    "bytes": 1667470,
+    "sha256": "88516ff8092e8fe4752b227995d17826ff456fd0c8c5b8ef73f1679fdcdb6af1",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/pallet_npc_neighbor.png",
+    "bytes": 53149,
+    "sha256": "b0930de2f0dec34531982a3a2100451bcf346d36ccfe552036e4b5869dc6cd1f",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/pallet_npc_trainer.png",
+    "bytes": 36867,
+    "sha256": "2aa30bd7a54f2ac3f989812865a0740c6baa261017d1328d863d0a668e662b4a",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/pallet_npc_mom.png",
+    "bytes": 35721,
+    "sha256": "0f3b43523277c2e040ddc7b2a78109ae475bc5984bf901bd653bb9d7932a6ee6",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/pallet_npc.png",
+    "bytes": 50882,
+    "sha256": "c9167d40f1955e7e27a7a607a16744b8e4500ef1d03f65b9fee6527f8cce1a06",
+    "source_section": "js"
+  },
+  {
+    "file": "assets/characters/pallet_npc_2.png",
+    "bytes": 2309580,
+    "sha256": "5895557bfcc3f669ea0953c0519b3cee52e4ac78afa8d51a180fdcc8a9a3a787",
+    "source_section": "js"
+  }
+]

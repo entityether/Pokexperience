@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PokExperience v0.44.8</title>
+<link rel="stylesheet" href="css/pokexperience.css">
+</head><body>
+<header class="top"><div class="topin"><div class="logo">Pok<span>Experience</span></div><div class="hud">
+<span class="pill">💰 <b id="money"></b></span><span class="pill">⭐ Nv. <b id="level"></b></span>
+<span class="pill">⚡ <b id="energy"></b></span><span class="pill">🎟️ <b id="talents"></b></span></div></div></header>
+
+<section id="setup" class="world hidden" style="display:block;max-width:700px">
+<div class="frame center"><h1>Crear entrenador</h1><p>Tu progreso se guardará automáticamente.</p>
+<input id="newName" value="Entrenador" maxlength="18" style="padding:9px;width:100%">
+<div id="starterList" class="team" style="margin:15px 0"></div><button class="primary" onclick="createGame()">Comenzar</button></div></section>
+
+<main id="game" class="world hidden">
+<aside class="frame menu">
+<div class="title">PokExperience</div>
+<button onclick="go('overview')">🏠 Visión general</button><button onclick="go('missions')">👥 Misiones</button>
+<button onclick="go('ranking')">🏆 Clasificación</button>
+<div class="sectionlabel">ENTRENADOR</div>
+<button onclick="go('training')">⚔️ Entrenamiento</button>
+<button onclick="campPage()">⛺ Campamento</button><button onclick="go('boutique')">👕 Boutique</button>
+<button onclick="go('shop')">🔴 Tienda Pokémon</button><button onclick="go('city')">🏘️ Portal de la ciudad</button><button onclick="go('map')">🗺️ Mapa de Kanto</button>
+<div class="sectionlabel">ZONA ACTUAL</div><div id="zoneMenu"></div>
+</aside>
+<section class="frame center"><div id="content"></div></section>
+<aside>
+<div class="frame"><div class="title">Entrenador</div><div class="rightpad">
+<b id="name"></b><div id="rank" class="muted"></div><hr><div>EXP: <b id="xp"></b></div><div>Prestigio: <b id="prestige"></b></div>
+<div>📍 <b id="location"></b></div><div class="save" id="saveState"></div></div></div>
+<div class="frame" style="margin-top:10px"><div class="title">Equipo</div><div class="rightpad" id="miniTeam"></div></div>
+<div class="frame" style="margin-top:10px"><div class="title">Actividad</div><div class="rightpad log" id="log"></div></div>
+<div class="frame menu" style="margin-top:10px"><button onclick="openSave()">💾 Partida</button><button onclick="go('patch')">📜 Historial de parches</button></div>
+</aside></main>
+<div id="modal" class="modal hidden"></div>
+<script src="js/pokexperience.js"></script></body></html>
